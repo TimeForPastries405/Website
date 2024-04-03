@@ -1,0 +1,51 @@
+.banner{
+    padding: 0.1px;
+    text-align: left;
+    background: #c0c0c0;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+.nav-links{
+    flex:1 ;
+    text-align: right;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 4px 6px;
+    position: relative;
+}
+.ADOT img{
+    
+    width: 20%;
+    height:20%;
+
+}
+hr {
+    border: none;
+    border-top: 2px dotted black;
+  }
+  .footer{
+    padding: 0.01px;
+    text-align: center;
+    background: #c0c0c0;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+  }
+.gif1 img{
+    width: 10%;
+    height: 10%;
+
+  }
+  .cool img{
+    width: 10%;
+    height: 10%;
+
+  }
+  .t1 img{
+    width: 10%;
+    height: 10%;
+  }
+  
